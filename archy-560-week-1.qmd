@@ -5,7 +5,7 @@ format: docx
 
 ## Quarto
 
-Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+Quarto enables you to weave together content and executable code into a finished document. 
 
 ## Running Code
 
@@ -23,3 +23,5 @@ You can add options to executable code like this
 ```
 
 The `echo: false` option disables the printing of code (only output is displayed).
+
+I love inline R code like this `r 2 + 2`
